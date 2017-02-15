@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+    使用的第三方开放平台的api接口，纯粹学习用. 实现斗鱼直播、天气查询、音乐播放功能。
+    
 ## Build Setup
 
 ``` bash
